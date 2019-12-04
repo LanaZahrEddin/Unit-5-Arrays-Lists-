@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayIntroLanaZE", "ArrayIntroLanaZE\ArrayIntroLanaZE.csproj", "{C868103B-5E14-4729-99E4-86C2F0E64DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C868103B-5E14-4729-99E4-86C2F0E64DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C868103B-5E14-4729-99E4-86C2F0E64DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C868103B-5E14-4729-99E4-86C2F0E64DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C868103B-5E14-4729-99E4-86C2F0E64DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {097764C1-D03A-4E8B-A73F-A4C5F60596F4}
+	EndGlobalSection
+EndGlobal
