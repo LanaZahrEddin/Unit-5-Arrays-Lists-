@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\bin\Debug\ListsLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\bin\Debug\ListsLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\bin\Debug\ListsLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\obj\Debug\ListsLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\obj\Debug\ListsLanaZE.Form1.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\obj\Debug\ListsLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\obj\Debug\ListsLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\obj\Debug\ListsLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\obj\Debug\ListsLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\ListsLanaZE\ListsLanaZE\obj\Debug\ListsLanaZE.pdb
