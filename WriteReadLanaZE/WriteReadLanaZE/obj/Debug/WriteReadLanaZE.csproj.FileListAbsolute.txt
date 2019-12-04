@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\bin\Debug\WriteReadLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\bin\Debug\WriteReadLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\bin\Debug\WriteReadLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\obj\Debug\WriteReadLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\obj\Debug\WriteReadLanaZE.Form1.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\obj\Debug\WriteReadLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\obj\Debug\WriteReadLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\obj\Debug\WriteReadLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\obj\Debug\WriteReadLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\WriteReadLanaZE\WriteReadLanaZE\obj\Debug\WriteReadLanaZE.pdb
