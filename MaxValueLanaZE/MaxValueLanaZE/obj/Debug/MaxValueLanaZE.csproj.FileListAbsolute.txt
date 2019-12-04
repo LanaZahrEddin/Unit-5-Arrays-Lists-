@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\bin\Debug\MaxValueLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\bin\Debug\MaxValueLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\bin\Debug\MaxValueLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\obj\Debug\MaxValueLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\obj\Debug\MaxValueLanaZE.Form1.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\obj\Debug\MaxValueLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\obj\Debug\MaxValueLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\obj\Debug\MaxValueLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\obj\Debug\MaxValueLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-5-Arrays-Lists-\MaxValueLanaZE\MaxValueLanaZE\obj\Debug\MaxValueLanaZE.pdb
